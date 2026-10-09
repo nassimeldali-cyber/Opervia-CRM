@@ -1,0 +1,6 @@
+{
+  "name": "Opervia - Multi-Tenant E-Commerce CRM",
+  "description": "Production-ready multi-tenant SaaS CRM for e-commerce, WhatsApp Business Cloud API communication, and Tunisian COD order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
